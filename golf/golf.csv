@@ -1,5 +1,5 @@
 "Play","Outlook","NumericalTemp","NumericalHumidity","Windy"
-1.0,"sunny",85,85,False
+0.0,"sunny",85,85,False
 0.0,"sunny",80,90,True
 1.0,"overcast",83,86,False
 1.0,"rainy",70,96,False
